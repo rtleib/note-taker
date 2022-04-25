@@ -24,7 +24,7 @@
   #### [GitHub](https://github.com/rtleib/note-taker)
   #### [Heroku](https://note-taker-rtleib.herokuapp.com/)
   ## Contribution
-  #### Thank you to [Coding Boot Camp](https://github.com/coding-boot-camp/miniature-eureka) for the starter code. In additon, thank you to my tutor, the UTSA TAs, and my classmates for assisting me in this challenge.
+  #### Thank you to [Coding Boot Camp](https://github.com/coding-boot-camp/miniature-eureka) for the starter code. I also would like to thank my tutor, the UTSA TAs, and my classmates for assisting me in this challenge.
   ## Questions
   #### For additional questions, please contact me in this email address: rtleib@gmail.com.
   ## GitHub Username 
