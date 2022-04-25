@@ -16,7 +16,7 @@ app.get('/notes', (req, res) => {
   res.sendFile(path.join(__dirname, './public/notes.html'));
 });
 
-// 
+// GET app for left-hand column to appear in the notes
 app.get('/api/notes', (req, res) => {
   res.sendFile(path.join(__dirname, './db/db.json'));
   console.log(notes);
