@@ -26,7 +26,7 @@ app.get('/api/notes', (req, res) => {
 
 // GET app for *
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'index.html'));
+  res.sendFile(path.join(__dirname, './public/notes.html'));
 });
 
 // start the server
